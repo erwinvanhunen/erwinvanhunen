@@ -23,5 +23,5 @@ Check it out : https://github.com/pnp/pnp-powershell
 I however have also spend serious time in writing the PnP Provisioning Engine together with a few other great people: Bert Jansen en Paolo Pialorsi.
 
 ## Music
-When I'm not coding I make music. My style? You deside. I guess it's into the synth/80ies/soundtrack kinda direction. Not sure if it has a name. Should it? Don't think so. Check out my music here: https://www.youtube.com/channel/UCXn5BuWGRZ67QW2De_y-8Yw
+When I'm not coding I make music. My style? You decide. I guess it's into the synth/80ies/soundtrack kinda direction. Not sure if it has a name. Should it? Don't think so. Check out my music here: https://www.youtube.com/channel/UCXn5BuWGRZ67QW2De_y-8Yw
 
