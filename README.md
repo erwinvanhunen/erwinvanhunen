@@ -1,5 +1,4 @@
 # Erwin van Hunen
----
 Office Applications and Services MVP | Microsoft Certified Master SharePoint | Lead Architect @ [Valo Intranet](https://www.valointranet.com)
 
 ## About me
