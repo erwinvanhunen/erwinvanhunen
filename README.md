@@ -18,7 +18,7 @@ I have been speaking at so many conferences that I lost track. I do keep (like m
 ## Projects
 I'm a coder. I need code. In the Microsoft 365 community I'm mainly known as the person that came up with PnP PowerShell. I'm very actively involved in that to this day, and PnP PowerShell is currently the de-facto standard when it comes to scripting towards Microsoft 365 and SharePoint Online. The cmdlets in PnP PowerShell are used over a billion times a month...
 
-Check it out : https://github.com/pnp/pnp-powershell
+Check it out : https://github.com/pnp/powershell
 
 I however have also spend serious time in writing the PnP Provisioning Engine together with a few other great people: Bert Jansen en Paolo Pialorsi.
 
