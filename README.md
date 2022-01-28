@@ -1,5 +1,5 @@
 # Erwin van Hunen
-Office Applications and Services MVP | Microsoft Certified Master SharePoint | Lead Architect @ [Valo Intranet](https://www.valointranet.com)
+Office Applications and Services MVP | Microsoft Certified Master SharePoint | CTO @ [Valo Solutions, a Staffbase company](https://www.valosolutions.com)
 
 ## About me
 Born Dutch, but immigrated Sweden and nationalized as Swedish citizen, I live in the middle of nowhere, surrounded by trees and elks, wild boar and deer.
@@ -16,12 +16,12 @@ In 2015 I was awarded my first MVP award which I have been able to renew every y
 I have been speaking at so many conferences that I lost track. I do keep (like many others do with me I've noticed over the years) all the badges from all the conferences. It's a crazy number. I've been speaking at every self-respecting SharePoint / Microsoft 365 related conference, alike Ignite, ESPC, ECS, Thrive, etc.
 
 ## Projects
-I'm a coder. I need code. In the Microsoft 365 community I'm mainly known as the person that came up with PnP PowerShell. I'm very actively involved in that to this day, and PnP PowerShell is currently the de-facto standard when it comes to scripting towards Microsoft 365 and SharePoint Online. The cmdlets in PnP PowerShell are used over a billion times a month...
+I'm a coder. I need code. In the Microsoft 365 community I'm mainly known as the person that came up with PnP PowerShell. I'm very actively involved in that to this day, and PnP PowerShell is currently the de-facto standard when it comes to scripting towards Microsoft 365 and SharePoint Online. The cmdlets in PnP PowerShell are used over 2 billion times a month...
 
 Check it out : https://github.com/pnp/powershell
 
 I however have also spent serious time in writing the PnP Provisioning Engine together with a few other great people: Bert Jansen en Paolo Pialorsi.
 
 ## Music
-When I'm not coding I make music. My style? You decide. I guess it's into the synth/80ies/soundtrack kinda direction. Not sure if it has a name. Should it? Don't think so. Check out my music here: https://www.youtube.com/channel/UCXn5BuWGRZ67QW2De_y-8Yw
+When I'm not coding I make music. My style? You decide. I guess it's into the synth/80ies/soundtrack kinda direction. Not sure if it has a name. Should it? Don't think so. Check out my music here: https://www.youtube.com/erwinvanhunen
 
