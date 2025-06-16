@@ -1,5 +1,5 @@
 # Erwin van Hunen
-Office Applications and Services MVP | Microsoft Certified Master SharePoint | CTO @ [Valo Solutions, a Staffbase company](https://www.valosolutions.com)
+Office Applications and Services MVP | Microsoft Certified Master SharePoint | Head of Product @ [MondayCoffee](https://www.mondaycoffee.com)
 
 ## About me
 Born Dutch, but immigrated Sweden and nationalized as a Swedish citizen, I live in the middle of nowhere, surrounded by trees and elks, wild boar and deer.
