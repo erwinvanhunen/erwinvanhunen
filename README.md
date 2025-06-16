@@ -2,7 +2,7 @@
 Office Applications and Services MVP | Microsoft Certified Master SharePoint | CTO @ [Valo Solutions, a Staffbase company](https://www.valosolutions.com)
 
 ## About me
-Born Dutch, but immigrated Sweden and nationalized as Swedish citizen, I live in the middle of nowhere, surrounded by trees and elks, wild boar and deer.
+Born Dutch, but immigrated Sweden and nationalized as a Swedish citizen, I live in the middle of nowhere, surrounded by trees and elks, wild boar and deer.
 
 I started my IT career in the early 90's of the previous century. One of the first things I did at my new job was to install a Web Server, the one coded at CERN and dive into it. I remember my manager at the time asking: "I've heard about this thing called the world-wide-web... I have no clue what it is. Can you check it out?". The rest is history.
 
