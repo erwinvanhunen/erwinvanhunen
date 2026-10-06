@@ -1,5 +1,5 @@
 # Erwin van Hunen
-Office Applications and Services MVP | Microsoft Certified Master SharePoint
+Microsoft 365 MVP | Microsoft Certified Master SharePoint
 
 ## About me
 Born Dutch, but immigrated Sweden and nationalized as a Swedish citizen, I live in the middle of nowhere, surrounded by trees and elks, wild boar and deer.
